@@ -1,0 +1,12 @@
+* {
+    background-color: #320d3e;
+    margin: 3px;
+}
+
+.pc {
+    background-color: #f162ff;
+    border-radius: 10px;
+    padding: 10px;
+    color: #320d3e;
+    font-size: 1.5rem
+}

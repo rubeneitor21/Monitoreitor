@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cpu-stats": "^1.0.0",
+    "i": "^0.3.7",
+    "node-fetch": "^3.3.0",
+    "node-wmi": "^0.0.5",
+    "npm": "^9.3.0",
+    "os-utils": "^0.0.14"
+  },
+  "type": "module"
+}
